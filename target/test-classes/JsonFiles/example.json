@@ -1,0 +1,11 @@
+{
+   "signerName": "ABC_XYZ",
+   "moduleId": "GEM-PVT-ORG-MGMT-SVC-001",
+   "moduleResponseUrl": "http://example.com", 
+   "docName": "TestFile",
+   "queryParams": 
+	{
+      "txn": "1234",
+      "status": "NA"
+   	}
+}
